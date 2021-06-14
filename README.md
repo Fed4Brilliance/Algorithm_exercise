@@ -38,3 +38,8 @@
 [JAVA语法速查](https://en.cppreference.com/w/)  （也可以查jdk）
 
 ## 补充（计算机经典书籍-有需要的请自行下载）
+
+[百度网盘](https://pan.baidu.com/s/1w9-kZYcSpu26Afy4RTfWCg)  提取码：7mve
+
+![](F:\gitRepos\Algorithm\Algorithm_exercise\pictures\经典书籍.png)
+
