@@ -41,5 +41,5 @@
 
 [百度网盘](https://pan.baidu.com/s/1w9-kZYcSpu26Afy4RTfWCg)  提取码：7mve
 
-![](./pictures/经典书籍.png)
+![经典书籍](./pictures/经典书籍.png)
 
