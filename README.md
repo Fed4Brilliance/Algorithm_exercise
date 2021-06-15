@@ -35,7 +35,7 @@
 
 [C++语法速查](https://en.cppreference.com/w/)
 
-[JAVA语法速查](https://en.cppreference.com/w/)  （也可以查jdk）
+[JAVA语法速查](https://www.runoob.com/java/java-basic-syntax.html)  （也可以查jdk）
 
 ## 补充（计算机经典书籍-有需要的请自行下载）
 
