@@ -41,5 +41,5 @@
 
 [百度网盘](https://pan.baidu.com/s/1w9-kZYcSpu26Afy4RTfWCg)  提取码：7mve
 
-![](F:\gitRepos\Algorithm\Algorithm_exercise\pictures\经典书籍.png)
+![](./pictures/经典书籍.png)
 
