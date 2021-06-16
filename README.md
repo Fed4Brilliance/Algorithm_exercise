@@ -1,3 +1,6 @@
+## [算法刷题安排](https://docs.qq.com/sheet/DWUhxWHJ3QnpXbGxt)
+
+
 ### 1.怎么刷题？（刷题顺序）
 
 - 快速刷完所有简单题，找到刷题感觉
