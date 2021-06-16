@@ -1,4 +1,4 @@
-## [算法刷题安排](https://docs.qq.com/sheet/DWUhxWHJ3QnpXbGxt)
+## [算法刷题安排，点击查看](https://docs.qq.com/sheet/DWUhxWHJ3QnpXbGxt)
 
 
 ### 1.怎么刷题？（刷题顺序）
